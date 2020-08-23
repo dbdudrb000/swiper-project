@@ -1,3 +1,22 @@
+# 개요
+● 프로젝트명 : collabo
+● 팀구성 : 유영규
+
+● 목적 : ○ 대학생의 의뢰로 프로젝트 시작
+         ○ 
+
+● 사용기술 및 개발환경
+        ○ O/S : Windows 10(개발환경) 
+
+        ○ Server : Tomcat9
+
+        ○ Pramework : Spring boot, Jquery, Javascript
+
+        ○ Programming Language : JAVA, HTML, Javascript, CSS
+        
+        ○ Tool : Eclipse
+
+
 # swiper-project
 스와이퍼API를 이용한 설문조사 프로젝트
 
