@@ -17,6 +17,13 @@
     ○ Programming Language : JAVA, HTML, Javascript, CSS
     
     ○ Tool : Eclipse
+    
+# 목적
+
+- 대학생의 의뢰로 프로젝트 시작
+- 설문조사를 웹사이트로 진행하기 위해 제작
+- 고객과 개발자의 관계로 경험을 해보기 위하여
+- 포트폴리오 목적으로 제작
 
 # swiper-project
 스와이퍼API를 이용한 설문조사 프로젝트
